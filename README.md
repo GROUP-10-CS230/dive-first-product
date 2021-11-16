@@ -5,7 +5,7 @@ Please refer to the associated Github Wiki for the documents realted to the busi
 1) Business Plan
 2) Cultural Policy
 3) Ethics Policy
-4) Experementation and Priorities
+4) Experimentation and Priorities
 
 #### Youtube Video
 *A realized vision for assistive voice technologies*
