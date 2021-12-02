@@ -12,4 +12,4 @@ Please refer to the associated Github Wiki pages for the documents related to th
 #### Youtube Video
 *A realized vision for assistive voice technologies*
 
-[YouTube Video]<https://www.youtube.com/watch?v=vNWfMcV_TAI>
+<https://www.youtube.com/watch?v=vNWfMcV_TAI>
